@@ -1,0 +1,101 @@
+{
+  "version": "2.0",
+  "name": "Go2 Animation",
+  "robotType": "unitree_go2",
+  "duration": 2,
+  "keyframes": [
+    {
+      "id": "kf_1763267447884_fkq08xoq0",
+      "timestamp": 0.447,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0,
+            "pitch": -0.4,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Keyframe",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763267447984_stbao7arr",
+      "timestamp": 0.504,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0,
+            "pitch": -0.4,
+            "yaw": 0.4
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Keyframe",
+      "fromSequence": false
+    }
+  ],
+  "metadata": {
+    "created": 1763267549809,
+    "author": "Keyframe Animator",
+    "tags": []
+  }
+}

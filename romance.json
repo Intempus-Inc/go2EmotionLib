@@ -1,0 +1,893 @@
+{
+  "version": "2.0",
+  "name": "Go2 Animation",
+  "robotType": "unitree_go2",
+  "duration": 4,
+  "keyframes": [
+    {
+      "id": "kf_1763265985594_6jqduincv",
+      "timestamp": 0,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266016036_t3fwj6aah",
+      "timestamp": 0.2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266021478_iv7r0tekz",
+      "timestamp": 0.4,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266025025_d6llnzpbt",
+      "timestamp": 0.6,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266027784_v5tjk7f1e",
+      "timestamp": 0.8,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266031043_d1csc6tct",
+      "timestamp": 1,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266125695_k239z11hm",
+      "timestamp": 1.2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266129343_wo5kslp04",
+      "timestamp": 1.4,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266133665_qw3dbepsp",
+      "timestamp": 1.6,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266136650_ykeu96uug",
+      "timestamp": 1.8,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266140039_2la46emwx",
+      "timestamp": 2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266143266_sh9p7kjd1",
+      "timestamp": 2.2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266147747_ucsk7hxxv",
+      "timestamp": 2.4,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266153430_rqpd5czdo",
+      "timestamp": 2.6,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266156537_6rkxdljjq",
+      "timestamp": 2.8,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266159726_zmzg36lt2",
+      "timestamp": 3,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266164130_72n0mlr7j",
+      "timestamp": 3.2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266167376_rae2t3ql9",
+      "timestamp": 3.4,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266171832_hln54avkg",
+      "timestamp": 3.6,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": 0.094814453125,
+            "pitch": 0.3244444444444445,
+            "yaw": 0.3915423596559988
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266176350_n1aybjv6r",
+      "timestamp": 3.8,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": true,
+          "mode": "pose",
+          "torso": {
+            "height": 0.3,
+            "roll": -0.39279854366291594,
+            "pitch": 0.07555993711149013,
+            "yaw": -0.3296267807520121
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Pose",
+      "fromSequence": false
+    }
+  ],
+  "metadata": {
+    "created": 1763266180268,
+    "author": "Keyframe Animator",
+    "tags": []
+  }
+}

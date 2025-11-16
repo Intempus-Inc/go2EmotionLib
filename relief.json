@@ -1,0 +1,193 @@
+{
+  "version": "2.0",
+  "name": "Go2 Animation",
+  "robotType": "unitree_go2",
+  "duration": 7,
+  "keyframes": [
+    {
+      "id": "kf_1763264266534_fv0t1vmht",
+      "timestamp": 0,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": true,
+          "gait": "free",
+          "velocity": {
+            "vx": -0.5,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0,
+          "duration": 0.966
+        },
+        "episodic": {
+          "active": false,
+          "action": null
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "Keyframe",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763264277069_ke4errbmq",
+      "timestamp": 1.0298869397654726,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "stand_down"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "stand_down",
+      "fromSequence": false,
+      "_episodicExecuted": true
+    },
+    {
+      "id": "kf_1763264281860_5vv9ksxy0",
+      "timestamp": 6.6,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "stand_up"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "stand_up",
+      "fromSequence": false,
+      "_episodicExecuted": true
+    },
+    {
+      "id": "kf_1763264285333_yb9r5oomq",
+      "timestamp": 6.8,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "balance_stand"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "balance_stand",
+      "fromSequence": false,
+      "_episodicExecuted": true
+    }
+  ],
+  "metadata": {
+    "created": 1763264347849,
+    "author": "Keyframe Animator",
+    "tags": []
+  }
+}

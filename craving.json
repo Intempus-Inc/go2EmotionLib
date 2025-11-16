@@ -1,0 +1,145 @@
+{
+  "version": "2.0",
+  "name": "Go2 Animation",
+  "robotType": "unitree_go2",
+  "duration": 6,
+  "keyframes": [
+    {
+      "id": "kf_1763266574106_z1kog4y9l",
+      "timestamp": 0.2,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "sit"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "sit",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266579070_z036m59iv",
+      "timestamp": 5.4,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "rise_sit"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "rise_sit",
+      "fromSequence": false
+    },
+    {
+      "id": "kf_1763266583707_3cej11646",
+      "timestamp": 5.7,
+      "duration": null,
+      "layers": {
+        "perpetual": {
+          "active": false,
+          "mode": null,
+          "torso": {
+            "height": 0,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          },
+          "head": {
+            "height": 0.15,
+            "roll": 0,
+            "pitch": 0,
+            "yaw": 0
+          }
+        },
+        "periodic": {
+          "active": false,
+          "gait": null,
+          "velocity": {
+            "vx": 0,
+            "vy": 0,
+            "vyaw": 0
+          },
+          "phase": 0
+        },
+        "episodic": {
+          "active": true,
+          "action": "balance_stand"
+        }
+      },
+      "blendWeights": {
+        "perpetual": 1,
+        "periodic": 1,
+        "episodic": 1
+      },
+      "name": "balance_stand",
+      "fromSequence": false
+    }
+  ],
+  "metadata": {
+    "created": 1763266614333,
+    "author": "Keyframe Animator",
+    "tags": []
+  }
+}
