@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "intempus-go2-motion"
+version = "0.1.0"
+description = "Go2 authoring timelines with a Python loader and event inspector"
+requires-python = ">=3.10"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSE-DATA"]
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/Intempus-Inc/go2EmotionLib"
+
+[tool.setuptools]
+packages = ["go2_motion"]
+package-dir = {go2_motion = "."}
+
+[tool.setuptools.package-data]
+go2_motion = ["*.json"]

@@ -222,8 +222,7 @@
         "episodic": 1
       },
       "name": "Pose + sit",
-      "fromSequence": false,
-      "_episodicExecuted": true
+      "fromSequence": false
     },
     {
       "id": "kf_1763265165780_gj9dls7h9",
